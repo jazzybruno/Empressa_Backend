@@ -1,0 +1,6 @@
+the needed apis they include 
+                        
+                             photos api 
+                             exercise api
+                             chatting system( sockets ) in nodexjs 
+                             testing all the application
